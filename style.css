@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+body {
+    font-family: "Poppins";
+    background-color: rgb(231, 231, 231);
+    width: 100%;
+  }
+  
+  
+  
+  .nav-wrapper {
+    background-color: dodgerblue;
+  }
+  
+  .card-title {
+    background-color: dodgerblue;
+    padding: 5px !important;
+    border-radius: 50px;
+    margin: 8px;
+    font-size: 16px !important;
+  }
+  
+  .card {
+    width: 30%;
+    margin: 20px 1%;
+    float: left;
+    display: block;
+    color: black;
+    height: 2% !important;
+  }
+  
+  .latest-news {
+    width: 90%;
+    margin: 10px auto;
+  }
+  
+  h3 {
+    font-weight: 700;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    text-align: center;
+  }
+  
+  #p-header {
+    text-align: center;
+  }
+  
+  h4 {
+    font-weight: 700;
+  
+  }
+  
+  .box {
+    background-image: url(./Assets/media-banner.jpg);
+    display: block;
+    align-content: center;
+    background-color: white;
+    box-shadow: 2px 2px 8px black;
+    padding: 30px;
+    height: 400px !important;
+    margin: 0 auto;
+  }
+  
+  .dropdown-trigger {
+    display: block;
+    background-color: dodgerblue;
+    margin-top: 25px;
+    width: 20%;
+    
+  }
+  
+  .btn {
+    
+    float: left;
+    margin: 2%;
+  }
+  
+  .carousel {
+    height: 600px !important;
+  }
+  
+  p, b, .article-title {
+    text-align: left;
+  }
+
+#submit-btn {
+  padding: 10px;
+  display: block;
+  background-color: rgb(59, 59, 224);
+  border-radius: 25px;
+  margin: 23px auto;
+  width: 10%;
+  color: white;
+}
+
+#bender {
+    display: block;
+    margin: 10px auto;
+}
+
+.h6-header {
+    display: block;
+    text-align: center;
+    margin: 20px;
+}
+
+.article-title {
+    font-weight: 900 !important;
+}
+
+.btn-large {
+  height: 74px;
+  line-height: 74px;
+  font-size: 18px;
+  padding: 5 28px;
+   
+}
+
+.red {
+  background-color: rgb(59, 59, 224) !important;
+  font-size: 2em;
+}
+
+.btn i {
+  font-size: 2em
+  
+}
+
+.i {
+  font-size: 2em;
+}
+
+.fixed-action-btn.toolbar ul li a {
+  font-size: 1.2em;
+  
+}
+
+.btn-large i {
+  font-size: 1.6em
+}
